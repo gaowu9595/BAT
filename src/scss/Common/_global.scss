@@ -95,3 +95,9 @@
   z-index: 10000;
   display: none;
 }
+
+//画一条线
+.line{
+  border-top: 1px solid $grey1;
+  width: 100%;
+}
